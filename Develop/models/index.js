@@ -1,4 +1,5 @@
 'use strict';
+//variables created to store requirements for file
 
 var fs        = require('fs');
 var path      = require('path');
